@@ -59,7 +59,7 @@ scikit-learn
 ### 3. Run the Notebook:
 Open the Jupyter notebook in Jupyter or Kaggle:
 ```bash
-jupyter notebook ML_TestPrioritization.ipynb
+jupyter notebook qa-ml-prioritization.ipynb
 ```
 
 ## Usage
